@@ -1,1 +1,1 @@
-worker: python blind_horror_fixed.py
+worker: python blind_horror_final.py
